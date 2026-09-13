@@ -1,0 +1,6 @@
+{
+  "name": "ZenFit",
+  "description": "A premium yoga, fitness, and wellness platform featuring curated yoga flows, comprehensive workout libraries, guided meditation, personalized training plans, progress tracking, and an AI fitness coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
